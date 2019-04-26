@@ -22,7 +22,7 @@ let Apple = function (weight2) {
         return this.Weight2;
     }
 }
-let apple = new Apple(3);
+let apple = new Apple(10);
 let a = apple.getWeight();
 //Adam
 let adam = new Person('Adam', 'nam', 30,70);
